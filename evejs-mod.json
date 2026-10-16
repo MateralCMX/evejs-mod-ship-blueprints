@@ -1,0 +1,38 @@
+{
+  "author": {
+    "id": "au-muxt6kcyxsf4",
+    "keyId": "54c1f8afabfe",
+    "name": "Materal"
+  },
+  "category": "玩法",
+  "changelog": "",
+  "conflicts": [],
+  "delisted": false,
+  "description": "新增获取 M10 T20（材料效率 ME 10 / 时间效率 TE 20）蓝图原本的 GM 命令：/allshipbp 批量领取舰船蓝图，/givebp <蓝图ID> 领取指定蓝图。",
+  "displayName": "GM命令扩充",
+  "downloadUrls": [
+    {
+      "mirror": "github",
+      "priority": 1,
+      "url": "https://github.com/MateralCMX/evejs-mod-ship-blueprints/releases/download/v0.2.1/ship-blueprints-0.2.1.zip"
+    }
+  ],
+  "evejsVersions": [
+    "0.12.9"
+  ],
+  "featured": false,
+  "highlights": [],
+  "history": [],
+  "id": "ship-blueprints",
+  "publishedAt": "2026-10-16",
+  "readme": [
+    "版本 0.2.1，EveJS 0.12.9，启动器注入总线 API 1。",
+    "新增获取 M10 T20（材料效率 ME 10 / 时间效率 TE 20）蓝图原本的 GM 命令，支持批量领取舰船蓝图及按蓝图 ID 领取指定蓝图。"
+  ],
+  "repo": "https://github.com/MateralCMX/evejs-mod-ship-blueprints",
+  "requiresRestart": true,
+  "sha256": "1f99673fc9f28560115ed1a7c20a617c1cfa8be2e6e7173df036617e11957060",
+  "sizeBytes": 17095,
+  "tags": [],
+  "version": "0.2.1"
+}
