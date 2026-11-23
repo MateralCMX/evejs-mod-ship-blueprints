@@ -4,7 +4,7 @@
     "keyId": "54c1f8afabfe",
     "name": "Materal"
   },
-  "category": "玩法",
+  "category": "工具",
   "changelog": "",
   "conflicts": [],
   "delisted": false,
@@ -14,25 +14,25 @@
     {
       "mirror": "github",
       "priority": 1,
-      "url": "https://github.com/MateralCMX/evejs-mod-ship-blueprints/releases/download/v0.2.3/ship-blueprints-0.2.3.zip"
+      "url": "https://github.com/MateralCMX/evejs-mod-ship-blueprints/releases/download/v0.2.7/ship-blueprints-0.2.7.zip"
     }
   ],
   "evejsVersions": [
-    "261018.1"
+    "261115.2"
   ],
   "featured": false,
   "highlights": [],
   "history": [],
   "id": "ship-blueprints",
-  "publishedAt": "2026-10-21",
+  "publishedAt": "2026-11-23",
   "readme": [
     "启用后重启游戏服务端。使用 GM 角色停靠，在聊天框输入命令，蓝图会放入当前停靠位置的个人物品机库。",
     "指定领取需填写蓝图类型 ID，不是制造产物 ID 或已有物品 ID。命令不附送制造材料，也不修改已有蓝图；再次执行会再次发放。"
   ],
   "repo": "https://github.com/MateralCMX/evejs-mod-ship-blueprints",
   "requiresRestart": true,
-  "sha256": "c8c8055d2440a99b25572a87f0b17a967adc7c7eaa408a62ecd76a8d5ee02aac",
-  "sizeBytes": 15558,
+  "sha256": "69da71ad618bb061250a4a3bca32cd2f8638fe51c20078a6961e5cfa61dda830",
+  "sizeBytes": 22042,
   "tags": [],
-  "version": "0.2.3"
+  "version": "0.2.7"
 }
